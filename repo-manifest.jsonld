@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jd/pifpaf/commit/b9c3364b293c50223a84d7505634a8f848580c39",
       "git:hexsha": "b9c3364b293c50223a84d7505634a8f848580c39",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T22:14:07.388337+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jd/pifpaf/commit/8923a2c7e4d21c569ed519598379ddd542ae10db",
